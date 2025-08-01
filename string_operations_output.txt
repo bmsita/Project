@@ -1,0 +1,8 @@
+----- String Operations Report -----
+
+First String          : Rojalin
+Reversed              : nilajoR
+Upper Case            : ROJALIN
+Lower Case            : rojalin
+Toggle Case           : rOJALIN
+
